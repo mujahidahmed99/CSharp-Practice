@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache

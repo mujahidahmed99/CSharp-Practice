@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.exe
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.deps.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\bin\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.AssemblyInfo.cs
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\ref\WorkingWithLists.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithLists\obj\Debug\net5.0\WorkingWithLists.genruntimeconfig.cache

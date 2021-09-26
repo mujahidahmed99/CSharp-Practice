@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\ref\Formatting.dll
+C:\Users\User\Documents\Code\Chapter02\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\ref\Formatting.dll
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\User\Documents\Code\Chapter02\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache

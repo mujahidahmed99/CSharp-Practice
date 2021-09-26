@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.exe
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.deps.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\ref\WorkingWithNumbers.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\ref\WorkingWithNumbers.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.genruntimeconfig.cache

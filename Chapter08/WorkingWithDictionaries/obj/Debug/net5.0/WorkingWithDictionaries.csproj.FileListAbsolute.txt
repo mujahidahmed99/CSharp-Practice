@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.exe
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.deps.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfo.cs
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\User\Documents\Code\Chapter08\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.genruntimeconfig.cache

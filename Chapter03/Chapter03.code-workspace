@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "IterationStatements"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "HandlingExceptions"
+		}
+	]
+}
